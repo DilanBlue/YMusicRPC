@@ -18,6 +18,11 @@
 - **Защита от повторного запуска**: единичный экземпляр программы (Single Instance) через локальный IPC-сервер — повторный запуск активирует и разворачивает уже открытое окно.
 
 ---
+<img width="562" height="625" alt="изображение" src="https://github.com/user-attachments/assets/6383d8d5-e453-4076-a7df-ac7d6e500a0d" />
+
+<img width="287" height="384" alt="изображение" src="https://github.com/user-attachments/assets/f78100f5-0aa7-4291-a5ef-91f8ee311734" />
+
+---
 
 ## Быстрый запуск (Готовый .exe)
 
